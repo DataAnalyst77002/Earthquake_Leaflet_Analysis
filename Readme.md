@@ -18,7 +18,7 @@ ___
 
 ## United States Geological Survey Real Time API
 
-![Earthquake_Leaflet_Analysis](USGSWhite.green_-1.png)
+![Earthquake_Leaflet_Analysis](usgswhite.green_-1.png)
 
 The United States Geological Survey is a scientific agency of the United States government. The scientists of the USGS study the landscape of the United States, its natural resources, and the natural hazards that threaten it.Earthquake Hazards Program. https://earthquake.usgs.gov/earthquakes/. shares nformation on earthquake activity, earthquake science, and earthquake hazard reduction with links to news reports, products and services, educational resources for teachers, glossary, and current U.S. earthquake activity map.
 
