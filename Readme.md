@@ -1,3 +1,6 @@
+![Earthquake_Leaflet_Analysis](ProjectPic.png)
+
+
 # Earthquake Data Visualization
 
 
